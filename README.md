@@ -1,4 +1,4 @@
 # RW_Reservenzusweisung
-*RW Project*
+*School Project*
 
 Run `Main.java` to start the application.
